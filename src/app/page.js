@@ -91,7 +91,7 @@ function Home() {
       name: "Khatta-mitha mix",
       price: "₹72.00",
       category: "Sweet",
-      image: "/khattamitha.jpeg",
+      image: "/mithamix.jpeg",
       badge: "Top",
     },
     {
